@@ -145,7 +145,7 @@ In this section, various cost tables will be provided showing the cost of each R
 - CPU: 8 cores (Percentage up to 800%)
 - Mac Chip: M1
 
-|           MacOS           | % CPU | RTF  | Gazebo's FPS |
+|           MacOS           | % CPU | Gazebo's RTF  | Gazebo's FPS |
 |----------------------|-------|------|--------------|
 | Follow Line          | 620%  | 0.57 | 20           |
 | Vacuum Cleaner       | 400%  | 0.5  | 15           |
@@ -170,7 +170,7 @@ In this section, various cost tables will be provided showing the cost of each R
 - Windows: 64 bits
 
 
-|           Windows           | % CPU | RTF  | Gazebo's FPS |
+|           Windows           | % CPU | Gazebo's RTF  | Gazebo's FPS |
 |----------------------|-------|------|--------------|
 | Follow Line          | 79%   | 0.13 | 3            |
 | Vacuum Cleaner       | 74%   | 0.89 | 7            |
@@ -196,7 +196,7 @@ In this section, various cost tables will be provided showing the cost of each R
 - GPU: NVIDIA GeForce GTX 1660
 
 
-|          Windows            | % CPU | % GPU | RTF  | Gazebo's FPS |
+|          Windows            | % CPU | % GPU | Gazebo's RTF  | Gazebo's FPS |
 |----------------------|-------|-------|------|--------------|
 | Follow Line          | 72%   | 5%    | 0.5  | 16           |
 | Vacuum Cleaner       | 52%   | 6%    | 0.95 | 11           |
