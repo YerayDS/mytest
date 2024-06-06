@@ -161,6 +161,8 @@ In this section, various cost tables will be provided showing the cost of each R
 
 
 ---
+---
+---
 
 - CPU: 6 cores (Average Percentages up to 100%)
 - CPU: Intel Core i5
@@ -183,6 +185,8 @@ In this section, various cost tables will be provided showing the cost of each R
 | Montecarlo Laser Localized | 76%   | 0.8  | 9            |
 
 
+---
+---
 ---
 
 - CPU: 6 cores (Average Percentages up to 100%)
